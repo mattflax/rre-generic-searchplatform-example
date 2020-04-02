@@ -1,0 +1,21 @@
+{
+  "totalResults": 154,
+  "metadata": {
+    "requestTime": 400,
+    "responseFormat": "json"
+  },
+  "documents": [
+    {
+      "id": "do",
+      "name": "a deer, a female deer"
+    },
+    {
+      "id": "re",
+      "name": "a drop of golden sun"
+    },
+    {
+      "id": "mi",
+      "name": "a name I call myself"
+    }
+  ]
+}
