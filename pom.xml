@@ -14,8 +14,16 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <!-- RRE version -->
-        <rre.version>1.0</rre.version>
+        <rre.version>1.1</rre.version>
     </properties>
+
+    <!-- Sease repository -->
+    <repositories>
+        <repository>
+            <id>sease</id>
+            <url>https://raw.github.com/SeaseLtd/rated-ranking-evaluator/mvn-repo</url>
+        </repository>
+    </repositories>
 
     <dependencies>
         <dependency>
